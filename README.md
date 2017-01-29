@@ -1,5 +1,6 @@
 # redux-normalizr-utils
 [![Build Status: Linux](https://travis-ci.org/andreychumak/redux-normalizr-utils.svg?branch=master)](https://travis-ci.org/andreychumak/redux-normalizr-utils)
+[![Coverage Status](https://coveralls.io/repos/github/andreychumak/redux-normalizr-utils/badge.svg?branch=master)](https://coveralls.io/github/andreychumak/redux-normalizr-utils?branch=master)
 
 ## Motivation
 
