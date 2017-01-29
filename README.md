@@ -1,4 +1,5 @@
 # redux-normalizr-utils
+[![Build Status: Linux](https://travis-ci.org/andreychumak/redux-normalizr-utils.svg?branch=master)](https://travis-ci.org/andreychumak/redux-normalizr-utils)
 
 ## Motivation
 
