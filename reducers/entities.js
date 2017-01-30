@@ -63,7 +63,7 @@ function mergeEntities(state, {entities}) {
 	state = {...state};
 
 	for (let entityName of entityNames) {
-		state[entityName] = {...state[entityName], ...entities[entityNames]};
+		state[entityName] = {...state[entityName], ...entities[entityName]};
 	}
 
 	return state;
